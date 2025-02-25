@@ -8,5 +8,5 @@
 To build the project, use the following command:
 ```bash
 cargo build-sbf
-koii program deploy --program-id ./target/deploy/xxx.so
+koii program deploy sss.so --program-id ./target/deploy/xxx.json
 ```
